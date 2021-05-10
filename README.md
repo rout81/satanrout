@@ -9,5 +9,8 @@
 
 ### Connect with me:
 
-[![Satyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=satanrout)](https://github.com/anuraghazra/github-readme-stats)
+[![Satyaranjan's GitHub stats](https://github-readme-stats.vercel.app/api?username=satanrout&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satanrout)](https://github.com/anuraghazra/github-readme-stats)
+
 
