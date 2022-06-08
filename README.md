@@ -2,9 +2,9 @@
 
 ### I am a web and app developer!
 - 🔭 I’m currently working on a startup app!
-- 🌱 I’m currently learning everything 😁
+- 🌱 I’m currently learning web3 😁
 - 💬 Ask me anything about react
-- 😄 2021 Goals: Contribute more to Open Source projects
+- 😄 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to swim
 
 ### Connect with me:
